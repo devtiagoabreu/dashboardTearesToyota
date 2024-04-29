@@ -1,0 +1,6 @@
+.MainDash{
+  display: flex;
+  flex-direcion: column;
+  justify-content: space-evenly;
+  
+}
